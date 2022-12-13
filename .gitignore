@@ -1,0 +1,10 @@
+__pycache__/
+bin/
+lib/
+*.pyc
+.DS_Store
+.env
+.idea
+database-*.sqlite3
+input/
+output/
